@@ -147,7 +147,10 @@ main iframe{
 }
 
 footer {
-    margin: auto;
     background-color: var(--cor5);
     color: white;
+}
+footer > p {
+    padding: 5px;
+    text-align: center;
 }
